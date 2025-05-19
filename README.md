@@ -54,17 +54,6 @@ Porque creemos en el conocimiento construido desde abajo, en silencio, como lo h
 
 Este proyecto no requiere instalación técnica por defecto. Sin embargo, puedes clonar el repositorio para analizar, adaptar o replicar sus estructuras: 
 
-```bash
-git clone https://github.com/Thrumanshow/truman-antidebug-hormigascience.git
-Si deseas integrar alguno de los scripts o estructuras en tu proyecto, revisa las licencias y adapta el uso según tus necesidades. 
 
-📫 Contribuciones
-Este proyecto está abierto a ideas, mejoras y observaciones desde una visión ética y colaborativa. Puedes proponer ideas vía Issues o enviar pull requests. 
 
-🔐 Licencia
-Este proyecto está licenciado bajo una versión modificada de la Licencia HormigasAIS de uso ético. Más información disponible en el archivo LICENSE. 
-
-"La visibilidad digital también necesita zonas de sombra para que crezca la sabiduría."
-– HormigasAIS
-
-[Sigueme](https://www.linkedin.com/newsletters/hormigasais-community-7307138608543490048)
+[Sigueme]s://www.linkedin.com/newsletters/hormigasais-community-7307138608543490048)
